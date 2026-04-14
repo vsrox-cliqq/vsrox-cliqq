@@ -19,10 +19,11 @@ Built a deep research tool before deep research went mainstream, and co-built a 
 [![Website](https://img.shields.io/badge/Website-Visit%20Cliqq-green?style=for-the-badge)](https://www.cliqqai.com/)
 
 ---
-![Vikram's Contribution Calendar](https://github-readme-stats.vercel.app/api/github-contribution-calendar?username=vsrox-cliqq&theme=vision-friendly-dark)
----
 
-### 📊 Contribution Momentum
+### 📅 Contribution Calendar
+![Vikram's Contribution Calendar](https://github-readme-stats.vercel.app/api/github-contribution-calendar?username=vsrox-cliqq&theme=vision-friendly-dark)
+
+### 📈 Activity Momentum
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vsrox-cliqq&theme=github-compact&hide_border=true&area=true)
 
 ---
