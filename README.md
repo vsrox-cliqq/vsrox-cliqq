@@ -19,9 +19,3 @@ Built a deep research tool before deep research went mainstream, and co-built a 
 [![Website](https://img.shields.io/badge/Website-Visit%20Cliqq-green?style=for-the-badge)](https://www.cliqqai.com/)
 
 ---
-
-### 📊 GitHub Activity & Stats
-
-| My Stats | Top Languages |
-| :--- | :--- |
-| ![Stats](https://github-readme-stats.shion.dev/api?username=vsrox-cliqq&show_icons=true&theme=vision-friendly-dark&hide_border=true&cache_seconds=86400) | ![Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=vsrox-cliqq&layout=compact&theme=vision-friendly-dark&hide_border=true&cache_seconds=86400) |
