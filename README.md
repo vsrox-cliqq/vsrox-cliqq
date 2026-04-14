@@ -20,7 +20,7 @@ Built a deep research tool before deep research went mainstream, and co-built a 
 
 ---
 
-### 📅 Contribution Calendar
+### 📅 Contributions
 ![Vikram's Contribution Calendar](https://github-readme-stats.vercel.app/api/github-contribution-calendar?username=vsrox-cliqq&theme=vision-friendly-dark)
 
 ### 📈 Activity Momentum
