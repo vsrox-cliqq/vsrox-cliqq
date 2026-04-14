@@ -24,6 +24,4 @@ Built a deep research tool before deep research went mainstream, and co-built a 
 
 | My Stats | Top Languages |
 | :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vision-friendly-dark&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-friendly-dark&hide_border=true) |
-
-> **Note:** Replace `YOUR_GITHUB_USERNAME` in the URLs above with your actual GitHub handle to activate the dynamic charts.
+| ![Stats](https://github-readme-stats.vercel.app/api?username=vsrox-cliqq&show_icons=true&theme=vision-friendly-dark&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsrox-cliqq&layout=compact&theme=vision-friendly-dark&hide_border=true) |
