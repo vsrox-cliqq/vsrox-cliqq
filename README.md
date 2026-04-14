@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Vikramaditya Shekhar
 
-<!--
-**vsrox-cliqq/vsrox-cliqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Enterprise AI Services | Former Strategy Consultant | Software Architect**
 
-Here are some ideas to get you started:
+I'm getting back to software design after a decade in strategy consulting. I focus on building high-fidelity, "AI-native" software for enterprise or scale-consumer use cases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Built a deep research tool before deep research went mainstream, and co-built a voice AI orchestration platform, when voice AI was still hard. 
+
+- 🤖 **Ask me about:** Enterprise AI adoption, Voice AI, Generative UI, Production deployments (VPC), AI-SDLC.
+- 🏢 **Background:** Ex-Associate Partner at **Bain & Company**, ex-**Goldman Sachs**.
+- 🛠️ **Building:** Currently building AI solutions at [Cliqq AI](https://www.cliqqai.com/), mixing first principles thinking with AI-native implementation, serving tech services firms, consulting and FS clients
+
+---
+
+### 🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikramadityashekhar/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/HereAndShekhar)
+[![Website](https://img.shields.io/badge/Website-Visit%20Cliqq-green?style=for-the-badge)](https://www.cliqqai.com/)
+
+---
+
+### 📊 GitHub Activity & Stats
+
+| My Stats | Top Languages |
+| :--- | :--- |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vision-friendly-dark&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-friendly-dark&hide_border=true) |
+
+> **Note:** Replace `YOUR_GITHUB_USERNAME` in the URLs above with your actual GitHub handle to activate the dynamic charts.
