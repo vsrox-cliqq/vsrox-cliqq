@@ -6,7 +6,7 @@ I'm getting back to software design after a decade in strategy consulting. I foc
 
 Built a deep research tool before deep research went mainstream, and co-built a voice AI orchestration platform, when voice AI was still hard. 
 
-- 🤖 **Ask me about:** Enterprise AI adoption, Voice AI, Generative UI, Production deployments (VPC), AI-SDLC.
+- 🤖 **Ask me about:** Enterprise AI adoption, Agentic harnesses as product, Production deployments (VPC), AI-SDLC.
 - 🏢 **Background:** Ex-Associate Partner at **Bain & Company**, ex-**Goldman Sachs**.
 - 🛠️ **Building:** Currently building AI solutions at [Cliqq AI](https://www.cliqqai.com/), mixing first principles thinking with AI-native implementation, serving tech services firms, consulting and FS clients
 
